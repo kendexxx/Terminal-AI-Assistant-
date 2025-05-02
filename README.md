@@ -15,12 +15,15 @@ A text-based AI assistant powered by Google Gemini that can execute PC commands 
 ```bash
 pip install -r requirements.txt
 ```
-4. Create a `.env` file and add your Gemini API key:
+4. Create a `.env` file(or edit the already exiting one) and add your Gemini API key:
 ```
 GEMINI_API_KEY=your_api_key_here
 ```
 
 ## Usage
+Locate the folder:
+cd (installed location of the folder) 
+  then
 Run the assistant:
 ```bash
 python main.py
