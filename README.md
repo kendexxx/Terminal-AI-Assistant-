@@ -10,7 +10,7 @@ A text-based AI assistant powered by Google Gemini that can execute PC commands 
 
 ## Setup
 1. Install Python 3.10+ if not already installed
-2. Clone this repository
+2. Clone this repository (or just download this all as a ZIP file)
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
